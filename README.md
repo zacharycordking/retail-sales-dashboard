@@ -44,33 +44,33 @@ The dataset includes:
 
 ## KPI Cards
 
-* Total Revenue
-* Estimated Profit
-* Profit Margin
 * Total Transactions
 * Average Order Value
+* Estimated Profit
+* Total Revenue
+* Profit Margin
 
 ## Visualizations
 
-### Sales Trend Over Time
+### Monthly Sales Trend
 
-Tracks monthly revenue performance and sales growth trends.
+Tracks monthly sales performance and revenue fluctuations throughout the year.
 
-### Sales by Product Category
+### Revenue by Product Category
 
-Identifies top-performing product categories.
+Identifies the highest-performing product categories based on total revenue.
 
-### Customer Demographic Analysis
+### Customer Demographics
 
-Analyzes purchasing behavior across customer demographics.
+Compares purchasing behavior between male and female customers.
 
 ### Sales by Age Group
 
-Shows which customer age groups generate the most revenue.
+Analyzes revenue generated across different customer age segments.
 
-### Revenue by Category
+### Revenue Heatmap by Age Group & Category
 
-Highlights product categories contributing the highest revenue.
+Provides a detailed comparison of purchasing behavior across age groups and product categories using a heatmap visualization.
 
 ---
 
@@ -93,11 +93,12 @@ Filters include:
 
 # Key Insights
 
-* Certain product categories generated significantly higher revenue than others.
-* Revenue trends showed consistent sales fluctuations throughout the year.
-* Customer purchasing behavior varied across different age groups.
-* A small number of product categories accounted for a large percentage of total revenue.
-* Average order value remained relatively stable across transactions.
+* Electronics generated the highest overall revenue among product categories.
+* Customers aged 25-54 accounted for the majority of total sales revenue.
+* Female customers generated slightly higher total revenue than male customers.
+* Monthly sales trends showed strong peaks during May and October.
+* Customers aged 25-34 spent the most on Clothing products.
+* Electronics performed strongly among customers aged 35 and older.
 
 ---
 
