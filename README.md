@@ -68,7 +68,7 @@ Compares purchasing behavior between male and female customers.
 
 Analyzes revenue generated across different customer age segments.
 
-### Revenue Heatmap by Age Group & Category
+### Revenue Heatmap by Product Category
 
 Provides a detailed comparison of purchasing behavior across age groups and product categories using a heatmap visualization.
 
