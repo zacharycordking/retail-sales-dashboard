@@ -111,3 +111,16 @@ Filters include:
 * Focus retention efforts on repeat purchasing behavior.
 
 ---
+## Dashboard Preview
+
+![KPI Overview](dashboard-screenshots/KPI%20Overview.png)
+
+![Monthly Sales Trend](dashboard-screenshots/Monthly%20Sales%20Trend.png)
+
+![Revenue Heatmap](dashboard-screenshots/Revenue%20Heatmap.png)
+
+---
+
+## Live Dashboard
+
+[View Tableau Dashboard]([PASTE_LINK_HERE](https://public.tableau.com/app/profile/zachary.king1815/viz/retail_sales_dashboard_17794659479740/RevenueHeatmapbyAgeGroupCategory?publish=yes&showOnboarding=true))
